@@ -4,5 +4,7 @@ public class first_java {
 public static void main(String a[])
 {
 	System.out.println("My Test program");
+	System.out.println("My Test program");
 }
+	
 }
